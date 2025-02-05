@@ -7,6 +7,8 @@
         ✅ State Management: Context API
         ✅ Styling: CSS
         ✅ Data Fetching: YouTube Data API
+
+        
 **Features:**
         ✅ Displays popular and trending videos using the YouTube API.
         ✅ Display video thumbnails, titles, and channel information
