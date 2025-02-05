@@ -10,4 +10,7 @@
   **Usage:**
       npm run dev  # Start the project
 
+ **Projectlink:**
+                 http://localhost:5173/
+
 
