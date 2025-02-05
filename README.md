@@ -1,8 +1,13 @@
-# React + Vite
+**OverView:**
+        A YouTube Clone Web Application frontend built using React.js that allows users to watch YouTube videos. The app fetches video details such as comments, likes, views, and categories (Gaming, Music, Sports, Entertainment, etc.) directly from the YouTube API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Features:**
+    ✅ Display video thumbnails, titles, and channel information
+    ✅ Watch videos with an embedded player
+    ✅ Suggested videos based on the selected video
+    ✅ Responsive design for mobile and desktop
 
-Currently, two official plugins are available:
+  **Usage:**
+      npm run dev  # Start the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
